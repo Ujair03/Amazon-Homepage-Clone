@@ -1,4 +1,5 @@
 🛒 Amazon Replica Website (HTML & CSS)
+
 This is a front-end clone of the Amazon.com homepage built with pure HTML and CSS.
 It includes:
 * A responsive top navigation bar with logo, address, search bar, language selector, account links, and cart icon.
