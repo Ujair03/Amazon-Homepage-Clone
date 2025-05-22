@@ -1,2 +1,12 @@
-# Amazon-Homepage-Clone
-This project is a replica of the Amazon homepage built using HTML and CSS. It features a responsive navigation bar, a search section, product category displays, and a comprehensive footer with multiple links. The design focuses on replicating Amazon’s layout and user interface for learning and practice purposes.
+Amazon Homepage Clone
+A responsive Amazon homepage replica built with HTML and CSS. Features include:
+
+A navigation bar with location, search, language, sign-in, orders, and cart sections.
+
+A category panel with deals and options.
+
+A main promotional message linking to Amazon India.
+
+A shop section showcasing product categories with images.
+
+A detailed footer with multiple informational and navigation links.
